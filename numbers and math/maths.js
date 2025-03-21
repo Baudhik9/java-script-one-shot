@@ -10,3 +10,8 @@
 
 //math.random gives random number between 0 and 1
 
+const min=10
+const max=20
+
+//console.log(Math.random()*(max-min+1) + min)//give the random number between the min and max number defined above
+
